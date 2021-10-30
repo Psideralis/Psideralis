@@ -74,3 +74,30 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros s
   - Informática Industrial: Si requiere un programa de microcontrolador, controladores, bibliotecas RT o un SO para la automatización de su planta, desarrollamos y ofrecemos algoritmos clásicos y mediante aprendizaje de maquina e implementaciones.
     - Informática de Ingeniería
     - Informática de Control
+
+
+# PSIDERALIS FS
+
+Nous sommes une entreprise costarricien.
+
+## COMING SOON
+
+# PSIDERALIS PT
+
+Nos somos uma empresa costarriquenha.
+
+## COMING SOON
+
+
+# PSIDERALIS IT
+
+Noi sono una empresa costaricana.
+
+## COMING SOON
+
+
+# PSIDERALIS DE
+
+Wir sind ein costaricanisches Unternehmen.
+
+## COMING SOON
