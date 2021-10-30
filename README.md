@@ -1,7 +1,7 @@
 
 # PSIDERALIS
 
-We are a costarrican company.
+We are a costa rican company.
 
 ## VISION
 
