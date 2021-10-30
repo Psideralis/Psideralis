@@ -5,7 +5,7 @@ We are a costa rican company.
 
 ## VISION
 
-To offer international level competitive business and scientific informatic services with providers of the top global quality, to give our clients an optimal entrepreneurial enviroment and a technology infrastructure to potentiate their objects to highest scale.
+To offer international level competitive business and scientific informatic services with providers of top global quality, to give our clients an optimal entrepreneurial enviroment and a technology infrastructure to potentiate their objects to highest scale.
 
 ## MISION
 
@@ -13,10 +13,10 @@ Fullfull in a eficient and optimal mode our clients business entrepreneurial obj
 
 ## SPECIALIZATION
   - Business Informatics
-    - All systems include data bases on the cloud of local through Excel, Access, Microsoft SQL, mySQL o NO-SQL. 
+    - All systems include data bases on the cloud or local through Excel, Access, Microsoft SQL, mySQL o NO-SQL. 
     - Accounting systems.
-    - Sales systems with voucher.
-    - Sales-Client cycle administration systems.
+    - Sales systems with voucher printer.
+    - Sales-client cycle administration systems.
     - Financial administration systems through statistic algorithms and machine learning.
     - Web pages and app: include, domain, host and cloud monitoring.
     - Desktop applications: Windows y Linux (cooming soon macOS).
@@ -24,9 +24,9 @@ Fullfull in a eficient and optimal mode our clients business entrepreneurial obj
    
 ## PLUS WE OFFER:
   - Technical Informatics: If you require a Free Software or Source Code programm library, we offer a PsideralisFS Community with public commune software for communitary, colaborativa and cooperative development.
-    - Computational Logic
-    - Mathematical Computation
-    - Computer Sciences
+    - Computational Logic:  Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
+    - Mathematical Computation:  Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
+    - Computer Sciences: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit, Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
   - Scientific Informatics: If you require to simulate your scientific model to valide your theoretical results or if you require to validate your design or product through a scientific model, we develope expert programs with HPC integration and implementation on the cloud or on-premises.
     - Computational Physics
     - Chemioinformatics
@@ -61,9 +61,9 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros s
    
 ## TAMBIEN OFRECEMOS:
   - Informática Técnica: Si requiere en su programa bibiotecas de software libre y código abierto, ofrecemos a la comunidad el PsideralisFS (Free Software) para uso comunitario, colaborativo y cooperativo.
-    - Lógica Computacional
-    - Matemática Computacional
-    - Ciencias de la Computación
+    - Lógica Computacional: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
+    - Matemática Computacional:  Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
+    - Ciencias de la Computación: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit, Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
   - Informática Científica: Si requiere simular un modelo científico para válidar sus resultados teóricos o si requiere válidar su diseño o producto mediante un modelo científico, desarrollamos programas expertos en línea de comando e interfaz gráfica.
     - Física Computacional
     - Quimioinformática
