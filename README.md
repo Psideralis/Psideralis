@@ -1,5 +1,5 @@
 
-# PSIDERALIS
+# PSIDERALIS EN
 
 We are a costa rican company.
 
@@ -36,7 +36,7 @@ Fullfull in a eficient and optimal mode our clients entrepreneurial objetives wi
  ## COOMING SOON:
   - Industrian Informatics: If you require a program for you microcontroller, drivers, RT libraries and OS for your plant automation, we develop and offer classic and machine learning algorithms and implementations. 
 
-# PSIDERALIS
+# PSIDERALIS ES
 
 Somos una empresa costarricense.
 
