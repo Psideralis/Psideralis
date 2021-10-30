@@ -1,6 +1,43 @@
 
 # PSIDERALIS
 
+We are a costarrican company.
+
+## VISION
+
+To offer international level competitive business and scientific informatic services with providers of the top global quality, to give our clients an optimal entepreneural enviroment and a technology infrastructure to potentiate their objects to highest scale.
+
+## MISION
+
+Fullfull in a eficient and optimal mode our clients busieness entrepreneural objetives with our business informatic services.
+
+## SPECIALIZATION
+  - Business Informatics
+    - All systems include data bases on the cloud of local through Excel, Access, Microsoft SQL, mySQL o NO-SQL. 
+    - Accounting systems.
+    - Sales systems with voucher.
+    - Sales-Client cycle administration systems.
+    - Financial administration systems through statistic algorithms and machine learning.
+    - Web pages and app: include, domain, host and cloud monitoring.
+    - Desktop applications: Windows y Linux (cooming soon macOS).
+    - Mobile applications: Android (cooming soon iOS).
+   
+## PLUS WE OFFER:
+  - Technical Informatics: If you require a Free Software or Source Code programm library, we offer a PsideralisFS Community with public commune software for communitary, colaborativa and cooperative development.
+    - Computational Logic
+    - Mathematical Computation
+    - Computer Sciences
+  - Scientific Informatics: If you require to simulate your scientific model to valide your theoretical results or if you require to validate your design or product through a scientific model, we develope expert programs with HPC integration and implementation on the cloud or on-premises.
+    - Computational Physics
+    - Chemioinformatics
+    - Bioinformatics
+    - Geoinformatics
+  
+ ## COOMING SOON:
+  - Industrian Informatics: If you require a progra for you microcontroller, drivers, RT libraries and OS for your plant automation, we develop and offer classic and machinelearning algorihtms and implementations. 
+
+# PSIDERALIS
+
 Somos una empresa costarricense.
 
 ## VISIÓN
