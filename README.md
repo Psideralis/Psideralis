@@ -41,6 +41,7 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros s
   - Informática Industrial
    
 ## TAMBIEN OFRECEMOS:
+  - Software Libre:
     - Lógica y Matemática Computacional:  Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
     - Computación Tecnocientífica:  Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
     - Ciberseguridad: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
