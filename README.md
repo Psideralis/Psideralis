@@ -18,11 +18,14 @@ Fullfull in a eficient and optimal mode our clients entrepreneurial objetives wi
    
 ## PLUS WE OFFER:
   - Free Software:
+    - Computer Scence: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
+    - Programming Templates: (Comming soon)
+    - C++ Extender Library: (Comming soon)
+    - Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
     - Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
     - Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
-    - Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
-    - Computer Scence: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
-
+    
+   
 # PSIDERALIS ES
 
 Somos una empresa costarricense.
@@ -42,10 +45,12 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros s
    
 ## TAMBIEN OFRECEMOS:
   - Software Libre:
+    - Ciencias de la Computación: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
+    - Ciberseguridad: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
+    - Proformas de Programacion: (Proximamente)
+    - Libreria Extendida de C++: (Proximamente)
     - Lógica y Matemática Computacional:  Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
     - Computación Tecnocientífica:  Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
-    - Ciberseguridad: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
-    - Ciencias de la Computación: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
 
 # PSIDERALIS FS
 
