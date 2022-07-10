@@ -20,7 +20,7 @@ Fullfull in a eficient and optimal mode our clients entrepreneurial objetives wi
   - Free Software:
     - Computer Scence: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
     - Programming Templates: (Comming soon)
-    - C++ Extender Library: (Comming soon)
+    - C++ Extended Library: (Comming soon)
     - Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
     - Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
     - Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
