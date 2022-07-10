@@ -16,7 +16,7 @@ Fullfull in a eficient and optimal mode our clients entrepreneurial objetives wi
   - Technoscientific Informatics
   - Industrial Informatics
    
-## PLUS WE OFFER:
+## PLUS WE OFFER (Dev Plan 2020-2025):
   - Free Software:
     - Computer Scence: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
     - Programming Templates: (Coming soon)
@@ -43,7 +43,7 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros s
   - Informática Tecnoscientífica
   - Informática Industrial
    
-## TAMBIEN OFRECEMOS:
+## TAMBIEN OFRECEMOS(Dev Plan 2020-2025):
   - Software Libre:
     - Ciencias de la Computación: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
     - Ciberseguridad: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
