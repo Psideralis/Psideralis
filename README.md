@@ -24,7 +24,10 @@ Fullfull in a eficient and optimal mode our clients entrepreneurial objetives wi
     - Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
     - Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
     - Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
-    
+  - Commercial
+    - HexMonitoriks
+    - uLTRALogik
+    - HyperScientia
    
 # PSIDERALIS ES
 
@@ -51,7 +54,11 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros s
     - Libreria Extendida de C++: (Proximamente)
     - Lógica y Matemática Computacional:  Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
     - Computación Tecnocientífica:  Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
-
+  - Comercial
+    - HexMonitoriks
+    - uLTRALogik
+    - HyperScientia
+    
 # PSIDERALIS FS
 
 Nous sommes une entreprise costarricien.
