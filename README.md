@@ -18,9 +18,9 @@ Fullfull in a eficient and optimal mode our clients entrepreneurial objetives wi
    
 ## PLUS WE OFFER (Dev Plan 2020-2025):
   - Free Software:
-    - Computer Scence: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
+    - Computer Scence: Data Structures and Algorithms & Organon Programatoriae: https://github.com/Psideralis/Data-Structures-and-Algorithms
     - Programming Templates: (Coming soon)
-    - C++ Extended Library: (Coming soon)
+    - Psideralis++ Extended Library: (Coming soon)
     - Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
     - Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
     - Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
@@ -48,7 +48,7 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros s
    
 ## TAMBIEN OFRECEMOS(Dev Plan 2020-2025):
   - Software Libre:
-    - Ciencias de la Computación: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
+    - Ciencias de la Computación & Organon Programatoriae: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
     - Ciberseguridad: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
     - Proformas de Programacion: (Proximamente)
     - Libreria Extendida de C++: (Proximamente)
