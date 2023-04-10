@@ -12,20 +12,24 @@ To offer international level competitive business and scientific informatic serv
 Fullfull in a eficient and optimal mode our clients entrepreneurial objetives with our business informatic services.
 
 ## SPECIALIZATION
-  - Business Informatics
+  - Corporate Informatics
   - Technoscientific Informatics
   - Industrial Informatics
    
 ## PLUS WE OFFER (Dev Plan 2020-2025):
   - Free Software:
-    - Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
-    - Computer Scence: Data Structures and Algorithms:  https://github.com/Psideralis/Data-Structures-and-Algorithms
-    - Organon Programatoriae:(Coming soon)
-    - Psideralis++ Standard Library: (Coming soon)
-    - Programming Utilities: (Coming soon)
-    - Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
-    - Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
-    - Engineering Computation: Psideralis Engineering Utilities (Coming soon)
+ 
+    Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit (2020-2025)
+    Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms (2020-2025)
+    Computer Science: Organon Programatoriae (2020-2025)
+    Computer Science: Psideralis++ Standard Library: (2025-2027)
+    Computer Science: Psideralis Programming Utilities (2025-2027)
+    Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities (2020-2025)
+    Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities (2020-2025)
+    Engineering Computation: Psideralis Engineering Utilities (2025-2027)
+    Artistic Computation: Psideralis Arts & Craft Utilities (2025-2027)
+    Physiatric Computation: Psideralis Sportive & Physiatric Utilities (2025-2027)
+
     
   - Commercial
     - HexMonitoriks
@@ -46,20 +50,22 @@ Ofrecer un servicio de informatica empresarial competitivo de nivel internaciona
 Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros servicios de informática empresarial.
 
 ## ESPECIALIZACIÓN
-  - Informática Empresarial
+  - Informática Corporativa
   - Informática Tecnoscientífica
   - Informática Industrial
    
 ## TAMBIEN OFRECEMOS(Dev Plan 2020-2025):
   - Software Libre:
-    - Ciberseguridad: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit
-    - Ciencias de la Computación: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms
-    - Organon Programatoriae: (Proximamente)
-    - Psideralis++: Libreria Estandar de C++ de Psideralis: (Proximamente)
-    - Utilidades de Programacion: (Proximamente)
-    - Lógica y Matemática Computacional:  Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities
-    - Computación Tecnocientífica:  Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities
-    - Ingeniería asistida por Comptuadora: Psideralis Engineering Utilities (Proximamente)
+    Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit (2020-2025)
+    Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms (2020-2025)
+    Computer Science: Organon Programatoriae (2020-2025)
+    Computer Science: Psideralis++ Standard Library: (2025-2027)
+    Computer Science: Psideralis Programming Utilities (2025-2027)
+    Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities (2020-2025)
+    Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities (2020-2025)
+    Engineering Computation: Psideralis Engineering Utilities (2025-2027)
+    Artistic Computation: Psideralis Arts & Craft Utilities (2025-2027)
+    Physiatric Computation: Psideralis Sportive & Physiatric Utilities (2025-2027)
     
   - Comercial
     - HexMonitoriks
