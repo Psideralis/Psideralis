@@ -32,10 +32,13 @@ Fullfull in a eficient and optimal mode our clients entrepreneurial objetives wi
 
     
   - Commercial
-    - HexMonitoriks
-    - uLTRALogik
-    - HyperScientia
-    - Ingenis
+    - HexMonitoriks: Cybersecurity Software
+    - Noema Framework: Cross-platform GUI Library
+    - Nous Studio: Programming 3.0 Development Studio
+    - uLTRALogik: Mathematical Studio
+    - HyperScientia: Technoscientific Studio
+    - Ingenis: Engineering Studio
+
    
 # PSIDERALIS ES
 
@@ -68,11 +71,13 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros s
     - Medical Computation: Psideralis Sportive & Physiatric Utilities (2025-2027)
     
   - Comercial
-    - HexMonitoriks
-    - uLTRALogik
-    - HyperScientia
-    - Ingenis  
-    
+    - HexMonitoriks: Software de Ciberseguridad
+    - Noema Framework: Librería Multiplataforma GUI
+    - Nous Studio: Studio de Desarrollo Programación 3.0
+    - uLTRALogik: Estudio Matemático
+    - HyperScientia: Estudio Tecnocientífico
+    - Ingenis: Estudio de Ingeniería
+    - 
 # PSIDERALIS FS
 
 Nous sommes une entreprise costarricien.
