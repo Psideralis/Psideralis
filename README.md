@@ -9,7 +9,7 @@ To offer international level competitive business and scientific informatic serv
 
 ## MISION
 
-Fullfull in a eficient and optimal mode our clients entrepreneurial objetives with our business informatic services.
+Fullfill in a eficient and optimal mode our clients entrepreneurial objetives with our business informatic services.
 
 ## SPECIALIZATION
   - Corporate Informatics
@@ -32,13 +32,11 @@ Fullfull in a eficient and optimal mode our clients entrepreneurial objetives wi
 
     
   - Commercial
-    - HexMonitoriks: Cybersecurity Software
     - Noema Framework: Cross-platform GUI Library
     - Nous Studio: Programming 3.0 Development Studio
+    - HexMonitoriks: Cybersecurity Software
     - uLTRALogik: Mathematical Studio
     - HyperScientia: Technoscientific Studio
-    - Ingenis: Engineering Studio
-
    
 # PSIDERALIS ES
 
@@ -71,13 +69,12 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros s
     - Medical Computation: Psideralis Sportive & Physiatric Utilities (2025-2027)
     
   - Comercial
-    - HexMonitoriks: Software de Ciberseguridad
     - Noema Framework: Librería Multiplataforma GUI
     - Nous Studio: Studio de Desarrollo Programación 3.0
+    - HexMonitoriks: Software de Ciberseguridad
     - uLTRALogik: Estudio Matemático
     - HyperScientia: Estudio Tecnocientífico
-    - Ingenis: Estudio de Ingeniería
-    - 
+
 # PSIDERALIS FS
 
 Nous sommes une entreprise costarricien.
