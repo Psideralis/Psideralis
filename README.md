@@ -29,14 +29,6 @@ Fullfill in a eficient and optimal mode our clients entrepreneurial objetives wi
     - Engineering Computation: Psideralis Engineering Utilities (2025-2027)
     - Artistic Computation: Psideralis Arts & Craft Utilities (2025-2027)
     - Medical Computation: Psideralis Sportive & Physiatric Utilities (2025-2027)
-
-    
-  - Commercial
-    - Noema Framework: Cross-platform GUI Library
-    - Nous Studio: Programming 3.0 Development Studio
-    - HexMonitoriks: Cybersecurity Software
-    - uLTRALogik: Mathematical Studio
-    - HyperScientia: Technoscientific Studio
    
 # PSIDERALIS ES
 
@@ -67,13 +59,7 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros s
     - Engineering Computation: Psideralis Engineering Utilities (2025-2027)
     - Artistic Computation: Psideralis Arts & Craft Utilities (2025-2027)
     - Medical Computation: Psideralis Sportive & Physiatric Utilities (2025-2027)
-    
-  - Comercial
-    - Noema Framework: Librería Multiplataforma GUI
-    - Nous Studio: Studio de Desarrollo Programación 3.0
-    - HexMonitoriks: Software de Ciberseguridad
-    - uLTRALogik: Estudio Matemático
-    - HyperScientia: Estudio Tecnocientífico
+
 
 # PSIDERALIS FS
 
