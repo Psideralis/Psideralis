@@ -5,11 +5,11 @@ We are a costa rican company.
 
 ## VISION
 
-To offer international level competitive business and scientific informatic services with providers of top global quality, to give our clients an optimal entrepreneurial enviroment and a technological infrastructure to potentiate their objects to highest scale.
+To offer international level competitive business and scientific informatic and telematic services with providers of top global quality, to give our clients an optimal entrepreneurial enviroment and a technological infrastructure to potentiate their objects to highest scale.
 
 ## MISION
 
-Fullfill in a eficient and optimal mode our clients entrepreneurial objetives with our business informatic services.
+Fullfill in a eficient and optimal mode our clients entrepreneurial, industrial and technoscientific objetives with our business informatic services.
 
 ## SPECIALIZATION
   - Corporate Informatics
@@ -36,11 +36,11 @@ Somos una empresa costarricense.
 
 ## VISIÓN
 
-Ofrecer un servicio de informatica empresarial competitivo de nivel internacional con proveedores de calidad global, para ofrecer a nuestros clientes un entorno de negocios y una infraestructura de tecnologia para potenciar sus objetivos a alta escala.
+Ofrecer un servicio de informatica y telemática empresarial competitivo de nivel internacional con proveedores de calidad global, para ofrecer a nuestros clientes un entorno de negocios y una infraestructura de tecnologia para potenciar sus objetivos a alta escala.
 
 ## MISIÓN
 
-Cumplir de un modo eficiente y optimo sus objetivos empresariales con nuestros servicios de informática empresarial.
+Cumplir de un modo eficiente y optimo sus objetivos empresariales, tecnocientíficos e industriales con nuestros servicios de informática empresarial.
 
 ## ESPECIALIZACIÓN
   - Informática Corporativa
