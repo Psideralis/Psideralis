@@ -48,7 +48,7 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales, tecnocientíf
   - Informática Tecnoscientífica
   - Informática Industrial
    
-## TAMBIEN OFRECEMOS(Dev Plan 2020-2025):
+## TAMBIEN OFRECEMOS (Dev Plan 2020-2030):
   - Software Libre:
 
     - Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms (Open: 2020-2030)
