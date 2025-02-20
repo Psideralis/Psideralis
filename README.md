@@ -18,18 +18,8 @@ Fullfill in a eficient and optimal mode our clients entrepreneurial, industrial 
    
 ## PLUS WE OFFER (Dev Plan 2020-2030):
   - Free Software:
- 
-
     - Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms (Open: 2020-2030)
-    - Computer Science: Organon Programatoriae (2020-2030)
-    - Computer Science: Psideralis++ Standard Library: (2020-2030)
-    - Computer Science: Psideralis Programming Utilities (2020-2030)
-    - Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit (2020-2030)
     - Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities (Open: 2020-2030)
-    - Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities (2020-2030)
-    - Engineering Computation: Psideralis Engineering Utilities (2020-2030)
-    - Artistic Computation: Psideralis Arts & Craft Utilities (2020-2030)
-    - Medical Computation: Psideralis Sportive & Physiatric Utilities (2020-2030)
    
 # PSIDERALIS ES
 
@@ -47,20 +37,12 @@ Cumplir de un modo eficiente y optimo sus objetivos empresariales, tecnocientíf
   - Informática Corporativa
   - Informática Tecnoscientífica
   - Informática Industrial
+  - Informática de Negocio
    
 ## TAMBIEN OFRECEMOS (Dev Plan 2020-2030):
   - Software Libre:
-
     - Computer Science: Data Structures and Algorithms https://github.com/Psideralis/Data-Structures-and-Algorithms (Open: 2020-2030)
-    - Computer Science: Organon Programatoriae (2020-2030)
-    - Computer Science: Psideralis++ Standard Library: (2020-2030)
-    - Computer Science: Psideralis Programming Utilities (2020-2030)
-    - Cybersecurity: Binary Toolkit https://github.com/Psideralis/Binary-Toolkit (2020-2030)
     - Logic and Mathematical Computation: Psideralis Math Utilities https://gitlab.com/Psideralis/math-utilities (Open: 2020-2030)
-    - Technoscientific Computation: Psideralis Technoscientific Utilities https://gitlab.com/Psideralis/technoscientific-utilities (2020-2030)
-    - Engineering Computation: Psideralis Engineering Utilities (2020-2030)
-    - Artistic Computation: Psideralis Arts & Craft Utilities (2020-2030)
-    - Medical Computation: Psideralis Sportive & Physiatric Utilities (2020-2030)
 
 
 # PSIDERALIS FS
