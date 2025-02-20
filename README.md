@@ -15,6 +15,7 @@ Fullfill in a eficient and optimal mode our clients entrepreneurial, industrial 
   - Corporate Informatics
   - Technoscientific Informatics
   - Industrial Informatics
+  - Business Informatics
    
 ## PLUS WE OFFER (Dev Plan 2020-2030):
   - Free Software:
